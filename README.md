@@ -1,6 +1,6 @@
 # Enhancing Quality & Efficiency in Copper Clad Laminate Manufacturing
 
-> A data-driven approach to defect reduction and process optimization in PCB substrate manufacturing.  
+> A data-driven approach to defect reduction and process optimization in PCB substrate manufacturing. 
 
 ---
 
@@ -92,9 +92,9 @@ Each stage was analyzed for quality control metrics including resin distribution
 
 | File | Description |
 |------|-------------|
-| `Group_1_Final_Report_EGR-522.pdf` | Full project report |
-| `Group_1_Presentation.pptx` | Final presentation slides |
-| `ProjectProposal_LaminateManufacturing.docx` | Initial project proposal |
+| `CCL_Final_Report.pdf` | Full project report |
+| `CCL_Presentation.pptx` | Final presentation slides |
+| `ProjectProposal_LaminateManufacturing.pdf` | Initial project proposal |
 
 > **Note:** Production data used in this analysis is proprietary to Isola Group and is not included in this repository. Data is available upon request for academic purposes.
 
